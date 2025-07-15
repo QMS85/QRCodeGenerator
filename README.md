@@ -33,14 +33,15 @@ This application provides an intuitive graphical interface for creating QR codes
    ```
 ## Alternative Installation   
 
-These are the required libraries for this project
+These are the required libraries for this project   
 
-I've used the following Python libraries:
+I've used the following Python libraries:  
 
-qrcode for generating QR codes.
-tkinter for creating the GUI.
-Pillow (PIL) for displaying the generated QR code.
-If you don't have all of these yet, you can easily install them with this command:
+qrcode for generating QR codes.  
+tkinter for creating the GUI.  
+Pillow (PIL) for displaying the generated QR code.  
+
+You can easily install them with this command:  
 
 ```pip install qrcode pillow```
 
