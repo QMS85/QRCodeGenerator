@@ -1,0 +1,10 @@
+[QR Code Generator Project]
+name = "python-template"
+version = "0.1.0"
+description = "QR Code enerator"
+authors = ["Jonathan Peters <jonathanpeters051@gmail.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "pillow>=11.3.0",
+    "qrcode>=8.2",
+]
