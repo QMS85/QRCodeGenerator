@@ -1,6 +1,8 @@
 # QR Code Generator
 
-A simple and user-friendly desktop application that generates QR codes from URLs using Python's Tkinter GUI framework.
+A simple and user-friendly desktop application that generates QR codes from URLs using Python's Tkinter GUI framework.  
+This project is available on hackr.io  
+[QR Code Generator](https://hackr.io/blog/how-to-create-a-python-qr-code-generator?source=k8mepg2dMy)
 
 ## Overview
 
